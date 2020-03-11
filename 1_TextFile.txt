@@ -1,1 +1,2 @@
 Here is some text
+This is my first edit of the GeoTrans text
